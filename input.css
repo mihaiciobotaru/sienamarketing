@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .navbar-link {
+        @apply block py-2 px-3 text-gray-200;
+    }
+    .article-tag {
+        @apply inline-block bg-gradient-to-br my-1 from-slate-200 via-slate-300 to-slate-100 px-2 py-1 text-base rounded-xl border-2 border-slate-600;
+    }
+    .language-about{
+        @apply text-slate-300 flex justify-center items-center py-10 px-5 border-indigo-800 border-2 hover:brightness-125;
+    }
+    .article-chapter{
+        @apply mt-8 mb-8;
+    }
+    .bibliography-item{
+        @apply underline decoration-indigo-800 mt-2 mb-2 underline-offset-2 decoration-2;
+    }
+
+}
