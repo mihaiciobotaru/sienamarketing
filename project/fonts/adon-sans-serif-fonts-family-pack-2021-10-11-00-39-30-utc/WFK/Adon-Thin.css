@@ -1,0 +1,12 @@
+/* Webfont: Adon-Thin */@font-face {
+    font-family: 'AdonMed';
+    src: url('Adon-Thin.eot'); /* IE9 Compat Modes */
+    src: url('Adon-Thin.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Adon-Thin.woff') format('woff'), /* Modern Browsers */
+         url('Adon-Thin.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Adon-Thin.svg#Adon-Thin') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

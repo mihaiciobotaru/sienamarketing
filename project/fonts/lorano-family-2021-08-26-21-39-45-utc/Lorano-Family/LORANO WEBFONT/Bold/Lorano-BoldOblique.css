@@ -1,0 +1,12 @@
+/* Webfont: Lorano-BoldOblique */@font-face {
+    font-family: 'Bold';
+    src: url('Lorano-BoldOblique.eot'); /* IE9 Compat Modes */
+    src: url('Lorano-BoldOblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Lorano-BoldOblique.woff') format('woff'), /* Modern Browsers */
+         url('Lorano-BoldOblique.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Lorano-BoldOblique.svg#Lorano-BoldOblique') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

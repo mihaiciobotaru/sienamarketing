@@ -1,0 +1,12 @@
+/* Webfont: Lorano-LightOblique */@font-face {
+    font-family: 'Light';
+    src: url('Lorano-LightOblique.eot'); /* IE9 Compat Modes */
+    src: url('Lorano-LightOblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Lorano-LightOblique.woff') format('woff'), /* Modern Browsers */
+         url('Lorano-LightOblique.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Lorano-LightOblique.svg#Lorano-LightOblique') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

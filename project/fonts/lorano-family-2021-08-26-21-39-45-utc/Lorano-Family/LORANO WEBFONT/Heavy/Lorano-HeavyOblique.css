@@ -1,0 +1,12 @@
+/* Webfont: Lorano-HeavyOblique */@font-face {
+    font-family: 'Heavy';
+    src: url('Lorano-HeavyOblique.eot'); /* IE9 Compat Modes */
+    src: url('Lorano-HeavyOblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Lorano-HeavyOblique.woff') format('woff'), /* Modern Browsers */
+         url('Lorano-HeavyOblique.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Lorano-HeavyOblique.svg#Lorano-HeavyOblique') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

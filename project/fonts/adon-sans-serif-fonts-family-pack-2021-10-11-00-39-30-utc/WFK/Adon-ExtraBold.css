@@ -1,0 +1,12 @@
+/* Webfont: Adon-ExtraBold */@font-face {
+    font-family: 'Adon';
+    src: url('Adon-ExtraBold.eot'); /* IE9 Compat Modes */
+    src: url('Adon-ExtraBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Adon-ExtraBold.woff') format('woff'), /* Modern Browsers */
+         url('Adon-ExtraBold.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Adon-ExtraBold.svg#Adon-ExtraBold') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

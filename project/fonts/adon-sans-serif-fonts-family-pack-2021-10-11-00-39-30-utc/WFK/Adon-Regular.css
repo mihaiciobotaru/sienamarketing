@@ -1,0 +1,12 @@
+/* Webfont: Adon-Regular */@font-face {
+    font-family: 'AdonMed';
+    src: url('Adon-Regular.eot'); /* IE9 Compat Modes */
+    src: url('Adon-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Adon-Regular.woff') format('woff'), /* Modern Browsers */
+         url('Adon-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Adon-Regular.svg#Adon-Regular') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+

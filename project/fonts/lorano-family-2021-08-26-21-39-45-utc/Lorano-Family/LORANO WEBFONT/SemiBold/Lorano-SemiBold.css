@@ -1,0 +1,12 @@
+/* Webfont: Lorano-SemiBold */@font-face {
+    font-family: 'SemiBold';
+    src: url('Lorano-SemiBold.eot'); /* IE9 Compat Modes */
+    src: url('Lorano-SemiBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Lorano-SemiBold.woff') format('woff'), /* Modern Browsers */
+         url('Lorano-SemiBold.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Lorano-SemiBold.svg#Lorano-SemiBold') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

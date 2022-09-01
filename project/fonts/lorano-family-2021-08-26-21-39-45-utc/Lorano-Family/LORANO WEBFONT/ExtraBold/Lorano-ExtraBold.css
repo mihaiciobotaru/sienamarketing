@@ -1,0 +1,12 @@
+/* Webfont: Lorano-ExtraBold */@font-face {
+    font-family: 'ExtraBold';
+    src: url('Lorano-ExtraBold.eot'); /* IE9 Compat Modes */
+    src: url('Lorano-ExtraBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Lorano-ExtraBold.woff') format('woff'), /* Modern Browsers */
+         url('Lorano-ExtraBold.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Lorano-ExtraBold.svg#Lorano-ExtraBold') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

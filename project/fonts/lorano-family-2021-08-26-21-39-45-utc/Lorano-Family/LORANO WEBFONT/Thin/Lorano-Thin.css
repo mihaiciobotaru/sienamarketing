@@ -1,0 +1,12 @@
+/* Webfont: Lorano-Thin */@font-face {
+    font-family: 'Thin';
+    src: url('Lorano-Thin.eot'); /* IE9 Compat Modes */
+    src: url('Lorano-Thin.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Lorano-Thin.woff') format('woff'), /* Modern Browsers */
+         url('Lorano-Thin.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Lorano-Thin.svg#Lorano-Thin') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

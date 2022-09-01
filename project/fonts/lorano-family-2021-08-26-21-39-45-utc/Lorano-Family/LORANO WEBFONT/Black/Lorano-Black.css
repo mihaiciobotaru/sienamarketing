@@ -1,0 +1,12 @@
+/* Webfont: Lorano-Black */@font-face {
+    font-family: 'Black';
+    src: url('Lorano-Black.eot'); /* IE9 Compat Modes */
+    src: url('Lorano-Black.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Lorano-Black.woff') format('woff'), /* Modern Browsers */
+         url('Lorano-Black.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Lorano-Black.svg#Lorano-Black') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

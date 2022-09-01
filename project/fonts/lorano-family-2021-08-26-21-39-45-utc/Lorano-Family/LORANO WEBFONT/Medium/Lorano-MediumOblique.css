@@ -1,0 +1,12 @@
+/* Webfont: Lorano-MediumOblique */@font-face {
+    font-family: 'Medium';
+    src: url('Lorano-MediumOblique.eot'); /* IE9 Compat Modes */
+    src: url('Lorano-MediumOblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Lorano-MediumOblique.woff') format('woff'), /* Modern Browsers */
+         url('Lorano-MediumOblique.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Lorano-MediumOblique.svg#Lorano-MediumOblique') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

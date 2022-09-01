@@ -1,0 +1,12 @@
+/* Webfont: Lorano-News */@font-face {
+    font-family: 'News';
+    src: url('Lorano-News.eot'); /* IE9 Compat Modes */
+    src: url('Lorano-News.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Lorano-News.woff') format('woff'), /* Modern Browsers */
+         url('Lorano-News.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Lorano-News.svg#Lorano-News') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

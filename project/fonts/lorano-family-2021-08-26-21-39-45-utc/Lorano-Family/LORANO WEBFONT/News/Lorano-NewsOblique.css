@@ -1,0 +1,12 @@
+/* Webfont: Lorano-NewsOblique */@font-face {
+    font-family: 'News';
+    src: url('Lorano-NewsOblique.eot'); /* IE9 Compat Modes */
+    src: url('Lorano-NewsOblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Lorano-NewsOblique.woff') format('woff'), /* Modern Browsers */
+         url('Lorano-NewsOblique.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Lorano-NewsOblique.svg#Lorano-NewsOblique') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
